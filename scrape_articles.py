@@ -1,6 +1,8 @@
 import requests
 import os
 import re
+import subprocess
+import sys
 from datetime import datetime, timezone
 
 SANITY_URL = "https://h5lwhzp1.api.sanity.io/v1/data/query/production"
@@ -62,6 +64,21 @@ def build_md(articles):
     return "\n".join(lines)
 
 
+def git_commit_and_push(new_count):
+    try:
+        subprocess.run(["git", "add", OUTPUT_FILE], check=True, capture_output=True)
+        msg = f"update articles.md — {new_count} new article{'s' if new_count != 1 else ''}"
+        subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
+        result = subprocess.run(["git", "push"], check=True, capture_output=True)
+        print(f"Pushed to GitHub: {result.stdout.decode().strip()}")
+    except subprocess.CalledProcessError as e:
+        stderr = e.stderr.decode().strip()
+        if "nothing to commit" in stderr:
+            print("Nothing to commit.")
+        else:
+            print(f"Git error: {stderr}", file=sys.stderr)
+
+
 def main():
     articles = fetch_articles()
     existing = load_existing_slugs(OUTPUT_FILE)
@@ -76,6 +93,7 @@ def main():
             f"Updated {OUTPUT_FILE} — {len(articles)} total, "
             f"{len(new_articles)} new: {new_slugs}"
         )
+        git_commit_and_push(len(new_articles))
     else:
         print(
             f"No new articles. {OUTPUT_FILE} already has {len(articles)} entries."
