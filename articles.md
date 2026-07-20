@@ -1,6 +1,31 @@
 # Brazilian Finance — Articles
 
-*Last updated: 2026-07-14 | Total: 29 articles*
+*Last updated: 2026-07-20 | Total: 34 articles*
+
+## 2026-07-18
+
+- **[US Imposes 25% Tariff on Brazil: Everything You Need to Know](https://brazilianfinance.com/articles/us-imposes-25-tariff-on-brazil-everything-you-need-to-know)**
+  — Economy — The US accuses Brazil of unfair preferential tariffs related to financial markets and agribusiness practices
+
+## 2026-07-16
+
+- **[Brazilian Tax Reform Opens a Window for Asset Repricing in M&A](https://brazilianfinance.com/articles/brazilian-tax-reform-opens-a-window-for-asset-repricing-in-m-and-a)**
+  — Economy — Why the gap between tax reform perception and actual pricing is creating a unique moment to M&A in Brazil.
+
+## 2026-07-16
+
+- **[Chinese Capital Secures a Central Role in Brazil's Rail Expansion](https://brazilianfinance.com/articles/chinese-capital-secures-a-central-role-in-brazil-s-rail-expansion)**
+  — Market Trends — From urban transport to high-speed rail and locomotive factories, Chinese companies like CRRC and BYD are stepping up as leading protagonists in Brazil’s railway system.
+
+## 2026-07-16
+
+- **[The future of latino-american money is going to be decided now](https://brazilianfinance.com/articles/the-future-of-latino-american-money-is-going-to-be-decided-now)**
+  — Investment — As capital flows accelerate across the region, Latin America's next decade will determine whether its growing wealth becomes lasting global influence through investment, innovation, and cross-border opportunities.
+
+## 2026-07-15
+
+- **[Brazil tests bioethanol marine fuel as CMA CGM shifts supply strategy](https://brazilianfinance.com/articles/brazil-tests-bioethanol-marine-fuel-as-cma-cgm-shifts-supply-strategy)**
+  — Energy — A pilot operation at the Port of Santos signals a move toward regional agricultural biomass for deep-sea shipping decarbonization.
 
 ## 2026-07-13
 
