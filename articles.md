@@ -1,6 +1,51 @@
 # Brazilian Finance — Articles
 
-*Last updated: 2026-07-20 | Total: 34 articles*
+*Last updated: 2026-08-13 | Total: 43 articles*
+
+## 2026-08-12
+
+- **[Eneva Begins Construction of 1.2 GW Natural Gas Power Plant at Pecém Port](https://brazilianfinance.com/articles/eneva-begins-construction-of-1-2-gw-natural-gas-power-plant-at-pecem-port)**
+  — Energy — Eneva will invest $1.2 billion in a new natural gas power plant at the Port of Pecém, a project expected to increase Ceará’s electricity generation capacity by more than 20% and integrate new LNG and port infrastructure.
+
+## 2026-08-10
+
+- **[Infrastructure is what will define the winners of the AI race](https://brazilianfinance.com/articles/the-infrastructure-that-will-define-the-winners-of-the-ai-race)**
+  — Technology — While everyone focuses on algorithms and computing power, robust data engineering has emerged as the true secret to generative AI success.
+
+## 2026-08-05
+
+- **[Potash, Rare Earths, and Gold: Mapping the Amazon’s Critical Mineral Opportunity](https://brazilianfinance.com/articles/potash-rare-earths-and-gold-mapping-the-amazon-s-critical-mineral-opportunity)**
+  — Market Trends — The Brazilian National Mining Agency maps the region's $21 billion industry, highlighting vast potential in critical and strategic minerals beyond traditional commodities.
+
+## 2026-08-03
+
+- **[Brazil Set to Gain Strategic Relevance in Low Earth Orbit Satellite Race](https://brazilianfinance.com/articles/brazil-set-to-gain-strategic-relevance-in-low-earth-orbit-satellite-race)**
+  — Market Trends — With a prime location for space launches, Brazil could transform the Alcântara Launch Center into a strategic asset in the global satellite race.
+
+## 2026-07-31
+
+- **[Investing in Brazilian forestry: EUDR compliance, tariff shifts, and the engineered wood market](https://brazilianfinance.com/articles/investing-in-brazilian-forestry-eudr-compliance-tariff-shifts-and-the-engineered-wood-market)**
+  — Commodities — US tariffs and the December 2026 EUDR mandate are driving a structural shift from raw timber exports to certified engineered wood.
+
+## 2026-07-23
+
+- **[The Historical Parallels of the 2026 US-Brazil Tariffs ](https://brazilianfinance.com/articles/the-historical-parallels-of-the-2026-us-brazil-tariffs)**
+  — Economy — How do the 2026 U.S. barriers stack up against history? We explore the last 100 years of U.S.-Brazil trade to understand the historical parallels and possible impacts of today's 25% tariffs.
+
+## 2026-07-22
+
+- **[naPorta: The Last-Mile Startup That Wants to Reach Every Brazilian](https://brazilianfinance.com/articles/naporta-the-last-mile-startup-that-wants-to-reach-every-brazilian)**
+  — Entrepreneurship — From a garage startup to over 9 million deliveries annually, naPorta found opportunity where others saw no demand, all while driving positive impact in local communities.
+
+## 2026-07-22
+
+- **[The World Is Misreading Brazilian Capital](https://brazilianfinance.com/articles/the-world-is-misreading-brazilian-capital)**
+  — Investment — A record $58.8 billion in portfolio investments left Brazil last year. Foreign observers read it as capital flight. The data says the opposite
+
+## 2026-07-21
+
+- **[Which Brazilian Products Will Face the 25% U.S. Tariffs?](https://brazilianfinance.com/articles/which-brazilian-products-will-face-the-25-us-tariffs)**
+  — Trade — Following a USTR investigation, the U.S. has imposed 25% tariffs on Brazilian imports. Here is a breakdown of the exempt and impacted products.
 
 ## 2026-07-18
 
