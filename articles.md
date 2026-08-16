@@ -1,6 +1,11 @@
 # Brazilian Finance — Articles
 
-*Last updated: 2026-08-13 | Total: 43 articles*
+*Last updated: 2026-08-16 | Total: 44 articles*
+
+## 2026-08-13
+
+- **[Embraer C-390 Challenges Lockheed Martin for India’s $12 Billion Transport Aircraft Deal](https://brazilianfinance.com/articles/embraer-c-390-challenges-lockheed-martin-for-india-s-usd12-billion-transport-aircraft-deal)**
+  — Defence Market — Embraer’s 26-ton payload, partnership with Mahindra and proposed local production give the C-390 a strong position against Lockheed Martin’s C-130J in India’s 60-aircraft competition.
 
 ## 2026-08-12
 
