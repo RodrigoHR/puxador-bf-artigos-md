@@ -1,11 +1,76 @@
 # Brazilian Finance — Articles
 
-*Last updated: 2026-08-16 | Total: 44 articles*
+*Last updated: 2026-09-04 | Total: 57 articles*
+
+## 2026-09-04
+
+- **[Total Linhas Aéreas Grounding Exposes Structural Faults in Brazilian Air Freight](https://brazilianfinance.com/articles/total-linhas-aereas-grounding-exposes-structural-faults-in-brazilian-air-freight)**
+  — Markets — How ANAC’s intervention signals the end of low-cost 737 Classics and accelerates consolidation across South America’s freight corridors
+
+## 2026-09-03
+
+- **[Brazil Approves Critical Minerals Bill as Global Race for Rare Earths Intensifies](https://brazilianfinance.com/articles/brazil-critical-minerals-bill-rare-earths-industry)**
+  — Commodities — New framework seeks to promote domestic processing of strategic minerals as Brazil attracts growing U.S. and international interest in its rare earth resources
+
+## 2026-09-02
+
+- **[StreamFin Prepares New Round to Bring AI to Financial Advisory Firms](https://brazilianfinance.com/articles/streamfin-prepares-new-round-to-bring-ai-to-financial-advisory-firms)**
+  — Banking — Company founded by executives with experience at Accenture, Kraft Heinz, AB InBev and Ambev already operates with an advisory firm linked to BTG Pactual
+
+## 2026-08-28
+
+- **[The mistake of those who declared the end of Big Tech M&A](https://brazilianfinance.com/articles/the-mistake-of-those-who-declared-the-end-of-big-tech-m-and-a)**
+  — Technology — Why declining acquisition numbers mask a massive redistribution of capital, strategic alliances, and a booming artificial intelligence ecosystem.
+
+## 2026-08-27
+
+- **[AI’s Competitive Edge Is No Longer Programming](https://brazilianfinance.com/articles/ai-s-competitive-edge-is-no-longer-programming)**
+  — Technology — How the rise of AI is turning code into a commodity and elevating non-technical skills.
+
+## 2026-08-27
+
+- **[U.S. Government Backs $1.55 Billion Plan to Secure Serra Verde Rare Earth Supply](https://brazilianfinance.com/articles/u-s-government-backs-usd1-55-billion-plan-to-secure-serra-verde-rare-earth-supply)**
+  — Commodities — The U.S. Department of War is providing $750 million to a special purpose vehicle that will purchase 100% of Phase 1 production from Brazil’s Pela Ema mine under a 15-year offtake agreement.
+
+## 2026-08-26
+
+- **[Small and Mid-Sized Companies Gain Relevance in Brazil’s M&A Market](https://brazilianfinance.com/articles/m-and-a-market-could-reach-ususd6-4-trillion-as-equity-becomes-central-to-corporate-strategy)**
+  — Economy — As global M&A activity regains momentum, Brazilian small and mid-sized companies are increasingly investing in governance, management and organizational structure to build value and attract investors.
+
+## 2026-08-25
+
+- **[The Method Behind the Victories: What Sports Can Teach Us About Investing](https://brazilianfinance.com/articles/the-method-behind-the-victories-in-sports-and-investing)**
+  — Investment — In The Art of Winning, Bill Belichick argues that excellent results are built through strategy, preparation, and consistency. In the financial market, these same principles help explain why the long term remains the primary ally of investment advisors.
+
+## 2026-08-22
+
+- **[Why successful restaurant brands don't serve the same menu everywhere](https://brazilianfinance.com/articles/why-successful-restaurant-brands-don-t-serve-the-same-menu-everywhere)**
+  — Entrepreneurship — The restaurant brands that thrive across markets are often the ones that know what to preserve, and what to adapt
+
+## 2026-08-21
+
+- **[ Brazil’s Offshore Wind Potential Could Generate 516,000 Jobs and US$180 Billion in GDP](https://brazilianfinance.com/articles/brazil-s-offshore-wind-potential-could-generate-516-000-jobs-and-ususd180-billion-in-gdp)**
+  — Energy — Brazil has more than 1,200 GW of technical offshore wind potential, but regulation, infrastructure, and energy demand remain major challenges for developing the sector.
+
+## 2026-08-21
+
+- **[Brazilian Tax Reform: The Distance Between the Lips and the Cup](https://brazilianfinance.com/articles/brazilian-tax-reform-the-distance-between-the-lips-and-the-cup)**
+  — Economy — Haroldo da Silva, President of Corecon-SP, discusses the challenges posed by Brazil’s tax reform and the role of legal certainty, expectations and institutional quality in investment decisions.
+
+## 2026-08-19
+
+- **[Vale Is Considering Investing in Lithium and Rare Earth Mining](https://brazilianfinance.com/articles/vale-is-considering-investing-in-lithium-and-rare-earth-mining)**
+  — Commodities — Vale is studying an expansion into lithium and rare earth minerals as it looks to diversify its mining portfolio
+
+## 2026-08-16
+
+- **[Brazil Sets Green Transition Rules on SAF, Carbon Capture and Green Hydrogen  ](https://brazilianfinance.com/articles/brazil-sets-green-transition-rules-on-saf-carbon-capture-and-green-hydrogen)**
+  — Energy — Executive decrees set operational rules for SAF, carbon storage, and low-carbon hydrogen, but compliance costs and agency staffing shortages create immediate friction.
 
 ## 2026-08-13
 
 - **[Embraer C-390 Challenges Lockheed Martin for India’s $12 Billion Transport Aircraft Deal](https://brazilianfinance.com/articles/embraer-c-390-challenges-lockheed-martin-for-india-s-usd12-billion-transport-aircraft-deal)**
-  — Defence Market — Embraer’s 26-ton payload, partnership with Mahindra and proposed local production give the C-390 a strong position against Lockheed Martin’s C-130J in India’s 60-aircraft competition.
+  — Defence Market — Embraer’s C-390's payload capacity, partnership with Mahindra and proposed local production give Embraer a strong position against Lockheed Martin’s C-130J in India’s 60-aircraft competition.
 
 ## 2026-08-12
 
