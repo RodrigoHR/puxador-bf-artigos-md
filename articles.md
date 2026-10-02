@@ -1,6 +1,41 @@
 # Brazilian Finance — Articles
 
-*Last updated: 2026-09-04 | Total: 57 articles*
+*Last updated: 2026-10-02 | Total: 64 articles*
+
+## 2026-09-24
+
+- **[Brazil’s Tax Reform Could Reshape the Country’s Appeal to Foreign Investors](https://brazilianfinance.com/articles/brazil-s-tax-reform-could-reshape-the-country-s-appeal-to-foreign-investors)**
+  — Market Trends — The transition to a dual VAT system could reduce tax complexity, improve predictability and reshape how foreign capital views Brazil.
+
+## 2026-09-20
+
+- **[Nubank’s Triumphant Entry Into the U.S. Market](https://brazilianfinance.com/articles/nubank-triumphant-entry-into-the-u-s-market)**
+  — Banking — Fintech Nubank’s U.S. debut signals a new phase of expansion, with the company targeting up to 150 million additional customers worldwide
+
+## 2026-09-15
+
+- **[Brazil’s Split Payment Promises Tax Efficiency but Raises Corporate Cash Flow Concerns](https://brazilianfinance.com/articles/brazil-s-split-payment-promises-tax-efficiency-but-raises-corporate-cash-flow-concerns)**
+  — Economy — Brazil’s new tax collection system introduces a modern mechanism designed to reduce tax evasion and simplify compliance, but businesses face concerns over liquidity, working capital and cash flow.
+
+## 2026-09-14
+
+- **[Green Hydrogen Could Drive $58 Billion in Growth in Brazil by 2034](https://brazilianfinance.com/articles/green-hydrogen-could-drive-usd58-billion-in-growth-in-brazil-by-2034)**
+  — Market Trends — A report presented by the Brazilian Green Hydrogen Industry Association (ABIHV) shows that the industry could mobilize $25 billion in direct investment while generating up to 608,000 jobs in Brazil.
+
+## 2026-09-10
+
+- **[Brazil Can Exercise Rare Earth Sovereignty Without Owning the Mines Specialist Says](https://brazilianfinance.com/articles/brazil-can-exercise-rare-earth-sovereignty-without-owning-the-mines-specialist-says)**
+  — Market Trends — Rejecting a state-owned mining company does not mean giving up control: Brazil can use regulation, taxation and industrial policy to keep more of its rare earth value chain at home.
+
+## 2026-09-09
+
+- **[Italian Capital Changes Strategy in Brazil as Plans for €15 Billion Investment Grow](https://brazilianfinance.com/articles/italian-capital-changes-strategy-in-brazil-as-plans-for-eur15-billion-investment-grow)**
+  — Trade — The shift toward mergers, acquisitions, and technology investments is positioning Brazil as a strategic base for Italian companies expanding across Latin America.
+
+## 2026-09-09
+
+- **[The Hidden Cost of AI in Business](https://brazilianfinance.com/articles/the-hidden-cost-of-ai-in-business)**
+  — Technology — Everyone measures the cost of the AI subscription and the productivity that shows up on the dashboard. Almost nobody calculates the invisible bill: the gradual loss of the capacity to judge, and the difficulty of keeping the gains where they were created.
 
 ## 2026-09-04
 
